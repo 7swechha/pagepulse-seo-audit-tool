@@ -9,7 +9,7 @@ useful SEO and website health insights through a clean and user-friendly interfa
 
 ## 📸 Preview
 
-![PagePulse Preview](HomePage.png)
+![PagePulse Preview](HomepageandWhatitanalyzes.png)
 
 ---
 
@@ -36,9 +36,8 @@ analysis and presenting technical information in a clear visual format.
 
 ## 📸 Screenshots
 
-### Homepage
-
-![Homepage](HomePage.png)
+### Sample website Report
+### More of website
 
 ---
 
@@ -67,3 +66,4 @@ analysis and presenting technical information in a clear visual format.
 
 ```bash
 git clone https://github.com/7swechha/pagepulse-seo-audit-tool.git
+Author- Swechha Sinha
